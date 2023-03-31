@@ -3,11 +3,10 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<div>
-	<a href="https://beacons.ai/mariarita26">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariarita26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariarita26&&layout=compact&langs_count=16&theme=dracula"/>
-<div>
+<div>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariarita26&show_icons=true&count_private=true&hide_border=false&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=282a36" alt="Maria Rita github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariarita26&layout=compact&hide_border=false&title_color=ff91a4&text_color=ff91a4&bg_color=282a36" />
+</div>
 
 ### Tecnologias
 
