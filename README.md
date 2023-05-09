@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariarita26&layout=compact&hide_border=false&title_color=ff91a4&text_color=ff91a4&bg_color=282a36" />
 </div> -->
 
-### Tecnologias
+<!-- ### Tecnologias -->
 
 <div> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>  
