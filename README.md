@@ -3,12 +3,12 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<!-- <div>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariarita26&show_icons=true&count_private=true&hide_border=false&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=282a36" alt="Maria Rita github stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariarita26&layout=compact&hide_border=false&title_color=ff91a4&text_color=ff91a4&bg_color=282a36" />
-</div> -->
+<div>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariarita26&show_icons=true&count_private=true&hide_border=false&title_color=810CA8&icon_color=791a78&text_color=FFFFFF&bg_color=282a36" alt="Maria Rita github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariarita26&layout=compact&hide_border=false&title_color=810CA8&text_color=FFFFFF&bg_color=282a36" />
+</div>
 
-<!-- ### Tecnologias -->
+### Tecnologias
 
 <div> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>  
